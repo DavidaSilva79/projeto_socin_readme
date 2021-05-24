@@ -24,20 +24,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-Podemos considerar este projeto como sendo divido em três partes:
-1. Back End (pasta server) 
-2. Front End (pasta web)
-3. Mobile (pasta mobile)
-
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js][nodejs]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Projeto
 
 ```bash
 # Clone este repositório
