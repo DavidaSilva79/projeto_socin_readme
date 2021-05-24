@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React][reactjs]
 - [React Native][rn]
 - [TypeScript][typescript]
-- [Java][Java]
+- [Java][java]
 
 
 ## 🚀 Como executar o projeto
