@@ -32,47 +32,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ### 🎲 Rodando o Projeto
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
-```
-
-### 🧭 Rodando a aplicação web (Front End)
-
-```bash
-# Clone este repositório
-$ git clone https://github.com/tgmarinho/nlw1
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd nlw1
-
-# Vá para a pasta da aplicação Front End
-$ cd web
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-```
-
-
 🚧 Em construção... 🚧
 
 ## 😯 Como contribuir para o projeto
