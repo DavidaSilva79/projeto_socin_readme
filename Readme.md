@@ -16,12 +16,10 @@ O e-conect é o software de PDV da Socin. Confira alguns benefícios:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
-- [Node.js][nodejs]
-- [React][reactjs]
-- [React Native][rn]
-- [TypeScript][typescript]
-- [Java][java]
+- Java
+- Spring
+- MySql
+
 
 
 ## 🚀 Como executar o projeto
