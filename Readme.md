@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Java
 - Spring
-- MySql
+- MySQL
 
 
 
