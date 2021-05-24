@@ -27,8 +27,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+Java JDK 1.8, MySQL 5.7, FTP e SSH
+Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
 ### 🎲 Rodando o Projeto
 
