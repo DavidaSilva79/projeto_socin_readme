@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="econect.png" />
+    <img alt="Econect" title="#Econect" src="econect.png" />
 </h1>
 
 <h4 align="center"> 
