@@ -5,7 +5,9 @@
 
 ## 💻 Sobre o projeto
 
-O e-conect é o software de PDV da Socin. Confira alguns benefícios:
+O e-conect é o software de PDV da Socin uma Solução para frente de loja preparada para atender as necessidades varejistas dos mais diferentes portes.
+
+Além dos módulos naturais existentes em uma solução de frente de caixa, o e-conect possui diversas funcionalidades que ajudarão sua empresa a se destacar no mercado.Confira alguns benefícios:
 - Vai além do básico e tradicional: Possui Concentrador WEB, PDV Touch e PDV Móvel.
 - Capaz de atender desde uma única loja até grandes redes varejistas;
 - Possibilidade de adequar a solução para atender necessidades específicas;
