@@ -2,9 +2,6 @@
     <img alt="Econect" title="#Econect" src="econect.png" />
 </h1>
 
-<h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧
-</h4>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
