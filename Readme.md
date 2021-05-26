@@ -36,13 +36,15 @@ Além disto é bom ter um editor para trabalhar com o código como Eclipse
 
 🚧 Em construção... 🚧
 
-## 😯 Como contribuir para o projeto
+## 😯 Como liberar um pacote do projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+- Para liberar pacotes para o desenvolvimento do concentrador basta buildar o arquivo Econect-Concentrador/ant/build-econect.conc.xml
+- os pacotes .jar são gerados no diretório /usr/socin/econect/conc/lib
+
+- Para liberar pacotes de instalação basta buildar o arquivo Econect-Build/ant/build.xml
+- os pacotes .jar são gerados no diretório /usr/socin/econect/build/dist/V_RLS_VERSAO/Econect-Concentrador/instalador
+
+
 
 
 ## 📝 Licença
